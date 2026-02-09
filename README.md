@@ -27,21 +27,6 @@ It reflects my hands-on learning journey and helps reinforce core Python concept
 - Working with external libraries (e.g., `random`, `math`, `datetime`)
 
 ---
-🎯 Goal
-The main goal of this repo is:
-
-To reinforce Python knowledge through code
-
-To build a strong foundation for real-world projects
-
-To track my learning progress
-
-📌 Notes
-This repo is not a tutorial, but a personal learning resource.
-
-Some scripts may not be optimized — they reflect my learning phase.
-
-Feel free to suggest improvements via pull requests or issues!
 
 
 
